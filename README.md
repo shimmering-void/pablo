@@ -1,6 +1,6 @@
 # pablo
 
-A Quil sketch designed to ... well, that part is up to you.
+![image](https://user-images.githubusercontent.com/5009316/125276889-18eee700-e354-11eb-806b-235197447bb2.png)
 
 ## Usage
 
